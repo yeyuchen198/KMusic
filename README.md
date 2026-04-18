@@ -113,7 +113,7 @@
 
 
 ---
-## 一些截图
+## 📱 应用截图
 
 <p align="center">
 <img src="screenshots/Screenshot_20260418_095436_com.example.mediaplayer_test.jpg" width="30%" />
