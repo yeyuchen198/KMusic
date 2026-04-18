@@ -112,3 +112,34 @@
 ---
 
 
+---
+## 一些截图
+
+<p align="center">
+<img src="screenshots/Screenshot_20260418_095436_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095532_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095554_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095625_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095702_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095713_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095758_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095811_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095859_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095905_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095910_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_095929_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_100207_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_100219_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_100233_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_100248_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_101119_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_101141_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_101211_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_101242_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_101421_com.example.mediaplayer_test.jpg" width="30%" />
+<img src="screenshots/Screenshot_20260418_101459_com.example.mediaplayer_test.jpg" width="30%" />
+</p>
+
+---
+
+
