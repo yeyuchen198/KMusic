@@ -15,6 +15,7 @@
 
   * 酷我音乐
   * 哔哩哔哩
+  * 网易云
 * 广播电台支持：
 
   * 云听
@@ -92,7 +93,7 @@
 
 ## 🙏 致谢
 
-本项目的实现离不开以下优秀开源资源：
+感谢项目：
 
 * 音乐标签处理：
   [https://pub.dev/packages/metatagger](https://pub.dev/packages/metatagger)
@@ -102,6 +103,10 @@
 
 * 背景流光效果：
   [https://www.shadertoy.com/view/wdyczG](https://www.shadertoy.com/view/wdyczG)
+* 网易云API:
+  [https://github.com/rRemix/APlayer](https://github.com/rRemix/APlayer)
+* 网易云VIP歌曲解析:
+  [https://api.qijieya.cn/meting/](https://api.qijieya.cn/meting/)
 
 ---
 
