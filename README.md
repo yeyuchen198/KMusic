@@ -4,6 +4,17 @@
 
 一款基于 Flutter 开发的安卓音乐播放器，专注于**本地音乐管理 + 多音源播放 + 丰富音效体验**，同时兼顾个性化与可扩展性。
 
+
+---
+## KMusic下载链接：
+
+# 1.安卓版：
+下载链接:https://wwr.lanzoui.com/b01bjdh1xc  提取码 : aafb
+
+# 2.Windows版：
+https://wwr.lanzoui.com/b01bjdh1yd  提取码 : 5pzb
+
+注意: Windows版本不要解压到包含中文的目录，否则打不开应用程序
 ---
 
 ## ✨ 功能特色
@@ -107,6 +118,8 @@
   [https://github.com/rRemix/APlayer](https://github.com/rRemix/APlayer)
 * 网易云VIP歌曲解析:
   [https://api.qijieya.cn/meting/](https://api.qijieya.cn/meting/)
+* Windows端播放器内核：
+  [https://pub.dev/packages/mpv_audio_kit](https://pub.dev/packages/mpv_audio_kit)
 
 ---
 
